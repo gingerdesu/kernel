@@ -1,2 +1,2 @@
 # kernel
-Work productivity / planning app
+Work-day productivity / planning app
